@@ -6,7 +6,7 @@ I am trying to localize another avalonia project, but i cannot get .resx files t
 
 ### Error
 
-Unable to resolve Greeting as static field, property, constant or enum value Line 16, position 14.	ResxTest	C:\Users\ZeroOne\Documents\Programming\ResxTest\ResxTest\Views\MainView.axaml	16	
+Error	AVLN:0004	Unable to resolve Greeting as static field, property, constant or enum value Line 16, position 14.	ResxTest	C:\Users\ZeroOne\Documents\Programming\ResxTest\ResxTest\Views\MainView.axaml	16
 
 ### Relevant Sections:
 
